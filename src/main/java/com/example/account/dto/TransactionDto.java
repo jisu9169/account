@@ -5,7 +5,6 @@ import com.example.account.type.TransactionResultType;
 import com.example.account.type.TransactionType;
 import lombok.*;
 
-
 import java.time.LocalDateTime;
 
 
